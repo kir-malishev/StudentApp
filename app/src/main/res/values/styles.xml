@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Light">
+        <item name="android:windowBackground">@color/dark_color</item>
+    <item name="android:textColor">@color/light_color</item>
+    <item name="android:buttonStyle">@style/HabraThemeButton</item>
+    </style>
+    
+    <style name="HabraThemeButton" parent="@android:style/Widget.Button">
+    <item name="android:background">@drawable/hbutton</item>
+	</style>
+    
+
+</resources>

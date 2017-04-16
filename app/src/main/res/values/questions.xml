@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="qq1_1">1+2</string>
+    <string name="qq1_2">4+1</string>
+    <string name="qq1_3">2&#8211;3</string>
+    <string name="qq1_4">4*2</string>
+    <string name="qq1_5">40/8</string>
+    <string name="qq1_6">12*19</string>
+    <string name="qq1_7">11^2</string>
+    <string name="qq1_8">15&#8211;12</string>
+    <string name="qq1_9">11*12</string>
+    <string name="qq1_10">100/20</string>
+</resources>

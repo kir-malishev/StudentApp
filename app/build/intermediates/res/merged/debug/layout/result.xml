@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical" >
+            
+                    <ScrollView
+                        android:id="@+id/scrollView2"
+                        android:layout_width="match_parent"
+                        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+    					android:layout_marginRight="@dimen/activity_horizontal_margin"
+                        android:layout_height="0dp"
+                        android:layout_weight="3"
+                        android:fillViewport="true" >
+            
+            <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="vertical" >
+
+
+            <TextView
+                android:id="@+id/result"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="3"/>
+            
+            
+            
+            
+            
+            
+            </LinearLayout>
+            
+                    
+                    </ScrollView>
+                                <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+            
+                      <Button
+                          android:id="@+id/back"
+                          android:layout_width="0dp"
+                          android:layout_height="match_parent"
+                          android:layout_marginBottom="5dp"
+                          android:layout_weight="1"
+                          android:textSize="20sp"
+                          android:layout_marginLeft="5dp"
+     					  android:layout_marginRight="5dp"
+                          android:onClick="back"
+                          android:text="@string/back" />
+                      
+                                            <Button
+                          android:id="@+id/email"
+                          android:layout_width="0dp"
+                          android:layout_height="match_parent"
+                          android:layout_marginBottom="5dp"
+                          android:layout_weight="1"
+                          android:textSize="20sp"
+                          android:layout_marginLeft="5dp"
+     					  android:layout_marginRight="5dp"
+                          android:onClick="toMail"
+                          android:text="@string/email" />
+            </LinearLayout>
+        </LinearLayout>

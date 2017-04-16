@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Система тестирования</string>
+    <string name="Greeting">Нажимай!</string>
+    <string name="zero">Ноль!</string>
+    <string name="one">Один!</string>
+    <string name="two">Два!</string>
+    <string name="next">Вперёд</string>
+    <string name="menu">Меню</string>
+    <string name="test">Тест</string>
+    <string name="result">Результат</string>
+    <string name="play">Играть</string>
+    <string name="inmenu">В меню</string>
+    <string name="time15">00:15</string>
+    <string name="end">Время вышло(</string>
+    <string name="errorlogin">Неверный логин и/или пароль</string>
+    <string name="open">Вход</string>
+    <string name="numclass">Класс/курс</string>
+    <string name="letter">Буква</string>
+    <string name="proceed">Продолжить</string>
+    <string name="name">Имя</string>
+    <string name="lastname">Фамилия</string>
+    <string name="noname">Введите имя</string>
+    <string name="nolastname">Введите фамилию</string>
+    <string name="editnumber">Введите номер теста</string>
+    <string name="errformat">Неверный формат</string>
+    <string name="errid">Теста с таким номером не существует</string>
+    <string name="back">Назад</string>
+    <string name="save">Сохранить</string>
+    <string name="noconnect">Не удаётся соединиться с сервером. Проверьте доступ к Интернету.</string>
+    <string name="numberqq">Вопрос №</string>
+    <string name="choiceans">Выберите один вариант ответа из предложенных</string>
+    <string name="multipleans">Выберите один или несколько вариантов ответа из предложенных</string>
+    <string name="inputans">Введите ответ на вопрос</string>
+    <string name="list">К списку вопросов</string>
+    <string name="exit">Выйти</string>
+    <string name="warning">Все отмеченные ответы будут потеряны</string>
+    <string name="finishtest">Отправить</string>
+    <string name="cancel">Отмена</string>
+    <string name="forget">Вы не указали верный ответ в следующих вопросах:</string>
+    <string name="finish">Завершить и отправить тест учителю?</string>
+    <string name="points">Количество баллов за верный ответ: </string>
+    <string name="choice">Выберите один ответ из предложенных</string>
+    <string name="multiple">Выберите один или несколько ответов из предложенных</string>
+    <string name="input">Введите ответ на вопрос</string>
+    <string name="variants">Возможные варианты ответа:</string>
+    <string name="rightvariant">верный вариант ответа</string>
+    <string name="score">Набрано баллов:</string>
+    <string name="getpoints">Получено баллов:</string>
+    <string name="right">ВЕРНЫЙ ОТВЕТ</string>
+    <string name="noright">НЕВЕРНЫЙ ОТВЕТ</string>
+    <string name="from">из</string>
+    <string name="mark">Предварительная оценка (может быть изменена учителем):</string>
+    <string name="email">E-mail</string>
+    <string name="mailresult">Отправить на электронную почту</string>
+    <string name="noemail">Введите e-mail</string>
+    <string name="OK">OK</string>
+    <string name="erremail">Неверно введён e-mail</string>
+    <string name="succesfulmail">Письмо успешно отправлено</string>
+	<string name="errormail">При отправке возникла ошибка</string>
+	<string name="sizenotmatter">Регистр букв не учитывается</string>
+	<string name="wait">Секундочку</string>
+	<color name="white_color">#FFFFFF</color>
+	<color name="yellow_color">#FFFF00</color>
+	<color name="orange_color">#FF8C00</color>
+    <color name="light_color">#F0E68C</color>
+	<color name="dark_color">#370903</color>
+	<color name="black_color">#000000</color>
+	<color name="button_color">#B7EF8E</color>
+	
+	<string-array name="classes">
+	<item></item>
+    <item>11</item>
+    <item>10</item>
+    <item>9</item>
+    <item>8</item>
+    <item>7</item>
+    <item>6</item>
+    <item>6</item>
+    <item>5</item>
+    <item>4</item>
+    <item>3</item>
+    <item>2</item>
+    <item>1</item>
+    <item>1-й курс</item>
+    <item>2-й курс</item>
+    <item>3-й курс</item>
+    <item>4-й курс</item>
+    <item>5-й курс</item>
+</string-array>
+</resources>
